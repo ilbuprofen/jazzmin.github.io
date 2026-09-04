@@ -63,6 +63,14 @@ h1 {
   margin-top: 0;
 }
 
+.subtitle {
+  color: #ffffff;
+  font-family: 'Trebuchet MS', serif;
+  text-align: left;
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
